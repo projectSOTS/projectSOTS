@@ -4,13 +4,15 @@ ProjectSOTS is a research team that gathered by Assoc. Prof. Dr. Mehmet Fatih Am
 
 
 # Research Team
-
-| Supervisor -> |[Mehmet Fatih Amasyali](https://sites.google.com/view/mfatihamasyali/) |
-| ------------- | ------------- |
+| *advisor* | |
+| :-: |  :-: |
+| [Mehmet Fatih Amasyali](https://sites.google.com/view/mfatihamasyali/) | |
+|  ***Researchers*** | |
 | [Himmet Toprak Kesgin](https://avesis.yildiz.edu.tr/tkesgin)  | [Abdülsamet]()  |
 | [Ömer Faruk Cebeci]()  | [Buğra Hamza Gündoğ](https://github.com/BugraHamza)  |
 | [İpek Koç](https://github.com/ip-ek) | [Toygar Tanyel](https://github.com/Toygarr) |
 | [Talha Bacak]() | [Işıl Berfin Koparan](https://github.com/isilberfin) |
+| [Enes Dedeoğlu]()| |
 
 
 
