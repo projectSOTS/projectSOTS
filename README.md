@@ -36,4 +36,4 @@ https://github.com/Toygarr/synthetic-text-data-augmentation
 
 ### Data sets
 
-[Kaggle](https://www.kaggle.com/toygarr/data-sets-for-text-data-augmentation)
+[Kaggle](https://www.kaggle.com/toygarr/datasets-for-natural-language-processing)
