@@ -4,7 +4,7 @@ ProjectSOTS is a research team that gathered by Assoc. Prof. Dr. Mehmet Fatih Am
 
 
 # Research Team
-| *advisor* | |
+| *Advisor* | |
 | :-: |  :-: |
 | [Mehmet Fatih Amasyali](https://sites.google.com/view/mfatihamasyali/) | |
 |  ***Researchers*** | |
