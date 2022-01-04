@@ -18,12 +18,16 @@ XXX
 
 ## Curriculum Learning
 
+https://github.com/projectSOTS/SOTS_toprak_1<br />
+https://github.com/projectSOTS/SOTS_ipek_1
+
 
 ## Image Data Augmentation 
 
 
 ## Text Data Augmentation
 
+https://github.com/projectSOTS/SOTS_bugra_1<br />
 https://github.com/Toygarr/synthetic-text-data-augmentation
 
 ### Data sets
