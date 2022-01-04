@@ -5,15 +5,14 @@ ProjectSOTS is a research team that gathered by Assoc. Prof. Dr. Mehmet Fatih Am
 
 # Research Team
 
-[Mehmet Fatih Amasyali](https://sites.google.com/view/mfatihamasyali/) <br />
-[Himmet Toprak Kesgin](https://avesis.yildiz.edu.tr/tkesgin) \t
-[Abdülsamet]()<br />
-[Ömer Faruk Cebeci]()\t
-[Buğra Hamza Gündoğ](https://github.com/BugraHamza)<br />
-[İpek Koç](https://github.com/ip-ek)\t
-[Toygar Tanyel](https://github.com/Toygarr)<br />
-[Talha Bacak]() \t
-[Işıl Berfin Koparan](https://github.com/isilberfin)<br />
+| Supervisor -> |[Mehmet Fatih Amasyali](https://sites.google.com/view/mfatihamasyali/) |
+| ------------- | ------------- |
+| [Himmet Toprak Kesgin](https://avesis.yildiz.edu.tr/tkesgin)  | [Abdülsamet]()  |
+| [Ömer Faruk Cebeci]()  | [Buğra Hamza Gündoğ](https://github.com/BugraHamza)  |
+| [İpek Koç](https://github.com/ip-ek) | [Toygar Tanyel](https://github.com/Toygarr) |
+| [Talha Bacak]() | [Işıl Berfin Koparan](https://github.com/isilberfin) |
+
+
 
 # Projects
 
@@ -34,4 +33,5 @@ https://github.com/projectSOTS/SOTS_bugra_1<br />
 https://github.com/Toygarr/synthetic-text-data-augmentation
 
 ### Data sets
-kaggle/xxx
+
+[Kaggle](https://www.kaggle.com/toygarr/data-sets-for-text-data-augmentation)
