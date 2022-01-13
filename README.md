@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/72475872/149357567-429cc671-5ed4-40b4-85e4-9441d5d418fe.png)
+![logo](https://user-images.githubusercontent.com/72475872/149357794-9b05e5ac-c29b-431e-a4da-d3c9392d2d2b.png)
 
 
 # About ProjectSOTS
