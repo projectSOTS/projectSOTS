@@ -1,3 +1,6 @@
+![logo](https://user-images.githubusercontent.com/72475872/149357567-429cc671-5ed4-40b4-85e4-9441d5d418fe.png)
+
+
 # About ProjectSOTS
 
 ProjectSOTS is a research team that gathered by Assoc. Prof. Dr. Mehmet Fatih Amasyali under TUBITAK Project (Sort Optimization of Training Samples in Machine Learning, Project Number: 120E100 ).
