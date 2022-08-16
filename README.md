@@ -15,15 +15,17 @@ Our aims: Finding more generalizable Curriculum Learning methods, providing theo
 | :-: |  :-: |
 | [Mehmet Fatih Amasyali](https://sites.google.com/view/mfatihamasyali/) | |
 |  ***Researchers*** | |
-| [Himmet Toprak Kesgin](https://avesis.yildiz.edu.tr/tkesgin)  | [Abdulsamet Aktaş](https://avesis.marmara.edu.tr/abdulsamet.aktas)  |
-| [Enes Dedeoğlu]()  | [Toygar Tanyel](https://github.com/Toygarr) |
-| [Talha Bacak]() | [Işıl Berfin Koparan](https://github.com/isilberfin) |
-| [Şafak Bilici](https://github.com/safakkbilici) | [Ö. Faruk Cebeci]() |
+| [Himmet Toprak Kesgin](https://avesis.yildiz.edu.tr/tkesgin)  |  [Işıl Berfin Koparan](https://github.com/isilberfin)  |
+| [Besher Alkurdi]() |[Rameş Aliyev]() |
+| [Tolga Recep Uçar]() |[Feyza Şahin]() |
 | ***Past Researchers***| |
 | [Ahmet Bağcı]() | [Kaan Sönmezöz]() |
 | [Ahmet Topal]() | [Gülsüm Yiğit]() |
 | [Melike Nur Mermer]() | [İpek Koç](https://github.com/ip-ek) |
 | [Bahattin Cihan Ünal]() | [Buğra Hamza Gündoğ](https://github.com/BugraHamza)|
+| [Şafak Bilici](https://github.com/safakkbilici) | [Ö. Faruk Cebeci]() |
+| [Enes Dedeoğlu]()  | [Toygar Tanyel](https://github.com/Toygarr) |
+| [Abdulsamet Aktaş](https://avesis.marmara.edu.tr/abdulsamet.aktas) | [Talha Bacak]() |
 
 
 # Projects / Publications:
