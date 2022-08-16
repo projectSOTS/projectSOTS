@@ -32,7 +32,7 @@ Our aims: Finding more generalizable Curriculum Learning methods, providing theo
 
 ## Curriculum Learning:
 
-Yigit, Gulsum, and Mehmet Fatih Amasyali. "Assessing the impact of minor modifications on the interior structure of GRU: GRU1 and GRU2." Concurrency and Computation: Practice and Experience (2021): e6775.
+Yigit, Gulsum, and Mehmet Fatih Amasyali. "Assessing the impact of minor modifications on the interior structure of GRU: GRU1 and GRU2." Concurrency and Computation: Practice and Experience (2021): e6775. [link](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.6775)
 
 ## Data Augmentation:
 
