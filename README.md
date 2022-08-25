@@ -16,7 +16,7 @@ Our aims: Finding more generalizable Curriculum Learning methods, providing theo
 | [Mehmet Fatih Amasyali](https://sites.google.com/view/mfatihamasyali/) | |
 |  ***Researchers*** | |
 | [Himmet Toprak Kesgin](https://avesis.yildiz.edu.tr/tkesgin)  |  [Işıl Berfin Koparan](https://github.com/isilberfin)  |
-| [Besher Alkurdi]() |[Rameş Aliyev]() |
+| [Besher Alkurdi](https://github.com/mrbesher/) |[Rameş Aliyev](https://rames.dev/) |
 | [Tolga Recep Uçar]() |[Feyza Şahin]() |
 | ***Past Researchers***| |
 | [Ahmet Bağcı]() | [Kaan Sönmezöz]() |
