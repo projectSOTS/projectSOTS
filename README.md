@@ -18,7 +18,7 @@ Our aims: Finding more generalizable Curriculum Learning methods, providing theo
 | [Himmet Toprak Kesgin](https://avesis.yildiz.edu.tr/tkesgin)  |  [Işıl Berfin Koparan](https://github.com/isilberfin)  |
 | [Besher Alkurdi](https://github.com/mrbesher/) |[Rameş Aliyev](https://rames.dev/) |
 | [Tolga Recep Uçar]() |[Feyza Şahin]() |
-| [Rayene Bech]() |[Somaiyeh Dehghan() |
+| [Rayene Bech]() | [Somaiyeh Dehghan]() |
 | [Ahmet Bağcı]() | [Kaan Sönmezöz]() |
 | [Ahmet Topal]() | [Gülsüm Yiğit]() |
 | [Melike Nur Mermer]() | [İpek Koç](https://github.com/ip-ek) |
