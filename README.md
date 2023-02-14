@@ -67,7 +67,7 @@ https://github.com/projectSOTS/SOTS_ipek_1
 
 Text Data Augmentation
 
-https://github.com/mrbesher/semantic-filtering-for-paraphrasing
+https://github.com/mrbesher/semantic-filtering-for-paraphrasing<br />
 https://github.com/projectSOTS/SOTS_bugra_1<br />
 https://github.com/Toygarr/synthetic-text-data-augmentation
 
