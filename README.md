@@ -32,11 +32,17 @@ Our aims: Finding more generalizable Curriculum Learning methods, providing theo
 
 ## Curriculum Learning:
 
+Dehghan, S., & Amasyali, M. F. (2023). SelfCCL: Curriculum Contrastive Learning by Transferring Self-Taught Knowledge for Fine-Tuning BERT. Applied Sciences, 13(3), 1913. [link](https://www.mdpi.com/2076-3417/13/3/1913)
+
 Yeğin, M. N., Kurttekin, Ö., Bahşi, S. K., & Amasyali, M. F. Training with growing sets: A comparative study. Expert Systems, e12961. [link](https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.12961)
 
 Yigit, G., & Amasyali, M. F. (2021). Assessing the impact of minor modifications on the interior structure of GRU: GRU1 and GRU2. Concurrency and Computation: Practice and Experience, e6775. [link](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.6775)
 
+Bech, R., Sahin, F., & Amasyali, M. F. (2022, September). Improving Abstractive Summarization for the Turkish Language. In 2022 Innovations in Intelligent Systems and Applications Conference (ASYU) (pp. 1-6). IEEE. [link](https://ieeexplore.ieee.org/abstract/document/9925328)
+
 ## Data Augmentation:
+
+Alkurdi, B., Sarioglu, H. Y., & Amasyali, M. F. (2022, December). Semantic Similarity Based Filtering for Turkish Paraphrase Dataset Creation. In Proceedings of the 5th International Conference on Natural Language and Speech Processing (ICNLSP 2022) (pp. 119-127). [link](https://aclanthology.org/2022.icnlsp-1.14.pdf)
 
 Bağcı, Ahmet, and Mehmet Fatih Amasyali. "Comparison of Turkish Paraphrase Generation Models." 2021 International Conference on INnovations in Intelligent SysTems and Applications (INISTA). IEEE, 2021. [link](https://ieeexplore.ieee.org/abstract/document/9548335)
 
@@ -45,6 +51,12 @@ Bilici, M. Şafak, and Mehmet Fatih Amasyali. "Variational Sentence Augmentation
 Sonmezoz, Kaan, and Mehmet Fatih Amasyali. "Same Sentence Prediction: A new Pre-training Task for BERT." 2021 Innovations in Intelligent Systems and Applications Conference (ASYU). IEEE, 2021. [link](https://ieeexplore.ieee.org/abstract/document/9598954)
 
 Topal, Ahmet, and Mehmet Fatih Amasyali. "When does Synthetic Data Generation Work?." 2021 29th Signal Processing and Communications Applications Conference (SIU). IEEE, 2021. [link](https://ieeexplore.ieee.org/abstract/document/9477956)
+
+## Other
+
+Kesgin, H. T., & Amasyali, M. F. (2022, September). Investigating Semi-Supervised Learning Algorithms in Text Datasets. In 2022 Innovations in Intelligent Systems and Applications Conference (ASYU) (pp. 1-6). IEEE. [link](https://ieeexplore.ieee.org/abstract/document/9925410)
+
+Poyraz, Y. Z., Tugcu, M., & Amasyali, M. F. (2022, September). Improving BERT Pre-training with Hard Negative Pairs. In 2022 Innovations in Intelligent Systems and Applications Conference (ASYU) (pp. 1-6). IEEE. [link](https://ieeexplore.ieee.org/abstract/document/9925395)
 
 ## REPOS
 
@@ -55,9 +67,11 @@ https://github.com/projectSOTS/SOTS_ipek_1
 
 Text Data Augmentation
 
+https://github.com/mrbesher/semantic-filtering-for-paraphrasing
 https://github.com/projectSOTS/SOTS_bugra_1<br />
 https://github.com/Toygarr/synthetic-text-data-augmentation
 
 ### Data sets
 
 [Kaggle](https://www.kaggle.com/toygarr/datasets-for-natural-language-processing)
+
