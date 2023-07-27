@@ -32,7 +32,7 @@ Our aims: Finding more generalizable Curriculum Learning methods, providing theo
 
 ## Curriculum Learning:
 
-Kesgin, H. T., & Amasyali, M. F. (2023). Cyclical curriculum learning. IEEE Transactions on Neural Networks and Learning Systems. [link](https://ieeexplore.ieee.org/abstract/document/10103632)
+Kesgin, H. T., & Amasyali, M. F. (2023). Cyclical curriculum learning. IEEE Transactions on Neural Networks and Learning Systems. [link](https://ieeexplore.ieee.org/abstract/document/10103632) [code](https://github.com/CyclicalCurriculum/Cyclical-Curriculum)
 
 Dedeoglu, E., Kesgin, H. T., & Amasyali, M. F. (2024). A Robust Optimization Method for Label Noisy Datasets Based on Adaptive Threshold: Adaptive-k. Front. Comput. Sci., 2024, 18(4): 184315. [link](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-023-2430-4)
 
