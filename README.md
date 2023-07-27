@@ -28,7 +28,7 @@ Our aims: Finding more generalizable Curriculum Learning methods, providing theo
 | [Abdulsamet Aktaş](https://avesis.marmara.edu.tr/abdulsamet.aktas) | [Talha Bacak]() |
 
 
-# Projects / Publications:
+# Publications:
 
 ## Curriculum Learning:
 
