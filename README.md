@@ -67,6 +67,7 @@ Poyraz, Y. Z., Tugcu, M., & Amasyali, M. F. (2022, September). Improving BERT Pr
 ## REPOS
 
 Curriculum Learning
+
 https://github.com/CyclicalCurriculum/Cyclical-Curriculum<br />
 https://github.com/projectSOTS/SOTS_toprak_1<br />
 https://github.com/projectSOTS/SOTS_ipek_1
