@@ -32,6 +32,12 @@ Our aims: Finding more generalizable Curriculum Learning methods, providing theo
 
 ## Curriculum Learning:
 
+Kesgin, H. T., & Amasyali, M. F. (2023). Cyclical curriculum learning. IEEE Transactions on Neural Networks and Learning Systems. [link](https://ieeexplore.ieee.org/abstract/document/10103632)
+
+Dedeoglu, E., Kesgin, H. T., & Amasyali, M. F. (2024). A Robust Optimization Method for Label Noisy Datasets Based on Adaptive Threshold: Adaptive-k. Front. Comput. Sci., 2024, 18(4): 184315. [link](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-023-2430-4)
+
+Yigit, G., & Amasyali, M. F. (2023). Enhancing multiple-choice question answering through sequential fine-tuning and Curriculum Learning strategies. Knowledge and Information Systems, 1-18. [link](https://link.springer.com/article/10.1007/s10115-023-01918-2)
+
 Dehghan, S., & Amasyali, M. F. (2023). SelfCCL: Curriculum Contrastive Learning by Transferring Self-Taught Knowledge for Fine-Tuning BERT. Applied Sciences, 13(3), 1913. [link](https://www.mdpi.com/2076-3417/13/3/1913)
 
 Yeğin, M. N., Kurttekin, Ö., Bahşi, S. K., & Amasyali, M. F. Training with growing sets: A comparative study. Expert Systems, e12961. [link](https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.12961)
@@ -61,7 +67,7 @@ Poyraz, Y. Z., Tugcu, M., & Amasyali, M. F. (2022, September). Improving BERT Pr
 ## REPOS
 
 Curriculum Learning
-
+https://github.com/CyclicalCurriculum/Cyclical-Curriculum<br />
 https://github.com/projectSOTS/SOTS_toprak_1<br />
 https://github.com/projectSOTS/SOTS_ipek_1
 
